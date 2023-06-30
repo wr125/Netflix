@@ -1,2 +1,3 @@
 A react app built based on netflix.
-"react-router-dom": "^6.14.0",
+
+![netflix](https://github.com/wr125/Netflix/assets/20228047/4e0778fd-bc19-453c-beab-725bfd6c88ac)
